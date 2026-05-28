@@ -27,8 +27,7 @@ A Structured repository showcasing my C Programming practice, covering core conc
 📁 17 Storage Classes,                             
 📁 18 Recursion programs,                          
 📁 19 Number programs,                             
-📁 20 Hands on practice codes in every core concept,
-📁 21 DSA basics.                            
+📁 20 Hands on practice codes in every core concept.                            
 # Coding platforms solutions:
 📁 01 Codechef solutions,                          
 📁 02 Leetcode solutions,                          
