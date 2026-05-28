@@ -11,7 +11,7 @@ A Structured repository showcasing my C Programming practice, covering core conc
 > 01 Basics,                                             
 > 02 Variable and data types,                            
 > 03 Input Output,                                       
-> 04 Operators                                           
+> 04 Operators,                                           
 > 05 Conditional Statements,                             
 > 06 Loops,                                              
 > 07 Control statements,                          
@@ -27,7 +27,7 @@ A Structured repository showcasing my C Programming practice, covering core conc
 > 17 Storage Classes,                             
 > 18 Recursion programs,                          
 > 19 Number programs,                             
-> 20 Hands on practice codes in everycore concept,
+> 20 Hands on practice codes in every core concept,
 > 21 DSA basics in c.                            
 # Global_platforms_solutions
 > 01 Codechef solutions,                          
