@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b903787b-ae5d-459a-95b9-08bc0cb7ee9e" /># C_Fundamentals_and_Projects
+# C_Fundamentals_and_Projects
 ![C](https://img.shields.io/badge/Language-C-blue)
 ![DSA](https://img.shields.io/badge/Focus-DSA-orange)
 ![Status](https://img.shields.io/badge/Progress-Learning-green)
@@ -28,6 +28,7 @@ A Structured repository showcasing my C Programming practice, covering core conc
 📁 18 Recursion programs,                          
 📁 19 Number programs,                             
 📁 20 Hands on practice codes in every core concept,
+
 📁 21 DSA basics in C.
 
 
