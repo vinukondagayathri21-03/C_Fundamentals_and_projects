@@ -28,7 +28,7 @@ A Structured repository showcasing my C Programming practice, covering core conc
 > 18 Recursion programs,                          
 > 19 Number programs,                             
 > 20 Hands on practice codes in everycore concept,
-> 21 DSA basics in c,                             
+> 21 DSA basics in c.                            
 # Global_platforms_solutions
 > 01 Codechef solutions,                          
 > 02 Leetcode solutions,                          
