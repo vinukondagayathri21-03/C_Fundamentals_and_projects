@@ -7,13 +7,13 @@
 ![Repo Size](https://img.shields.io/github/repo-size/vinukondagayathri21-03/C_Fundamentals_and_projects)
 
 A Structured repository showcasing my C Programming practice, covering core concepts, problem solving and fundamental programming logic and projects.
-# Topics Covered:                                      #status
-> 01 Basics,                                             ✅
-> 02 Variable and data types,                            ✅
-> 03 Input Output,                                       ✅
-> 04 Operators                                           ✅
-> 05 Conditional Statements,                             ✅
-> 06 Loops,                                              ✅
+# Topics Covered:                                      
+> 01 Basics,                                             
+> 02 Variable and data types,                            
+> 03 Input Output,                                       
+> 04 Operators                                           
+> 05 Conditional Statements,                             
+> 06 Loops,                                              
 > 07 Control statements,                          
 > 08 Pattern programs,                            
 > 09 Functions,                                   
