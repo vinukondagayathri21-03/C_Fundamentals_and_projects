@@ -9,6 +9,7 @@
 A Structured repository showcasing my C Programming practice, covering core concepts, problem solving and fundamental programming logic and projects.
 # Topics Covered:
 📁 00 Notes of C,
+
 📁 01 Basics,                                             
 📁 02 Variable and data types,                            
 📁 03 Input Output,                                       
